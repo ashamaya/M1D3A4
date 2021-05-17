@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+}
+.main-box{
+    width: 98%;
+    height: 95vh;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: black;
+}
+.side{
+
+    text-align: left;
+
+}
+h1{
+    color:rgb(168, 157, 157);
+    margin-left: 200px;
+}
+hr{
+    width: 85%;
+    margin-left: 200px;
+}
+.image{
+    width:30%;
+    height: 90vh;
+    display: inline-block;
+    margin-left: 5px;
+    background-image: url("bts.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bts-bio{
+    padding: 2%;
+    width: 15%;
+    height: 83vh;
+    display: inline-block;
+    vertical-align: top;
+}
+.jimin{
+    margin-left: 12.62%;
+}
+.small{
+    width: 100%;
+    height: 5vh;
+}
+.img{
+    width: ;
+    background-image: url("jimin.jpg");
+    background-size: cover;
+    background-position-x: 70%;
+    background-repeat: no-repeat;
+}
+.big{
+    width: 100%;
+    height: 80vh;
+}
+.jungkook{
+    margin-left: -6px;
+    margin-right: -7px;  
+}
+
+.img1{
+    width: ;
+    background-image: url("jungkook.png");
+    background-size: cover;
+    background-position-x: 70%;
+    background-repeat: no-repeat;
+}
+.img2{
+    width: ;
+    background-image: url("taehyung.jpg");
+    background-size: cover;
+    background-position-x: 70%;
+    background-repeat: no-repeat;
+}
+b{
+    font-size: 20px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:yellow;
+    color:grey;
+}
+
+p{
+    font-size:18px;
+    color:rgb(179, 134, 252);
+}
+.detail{
+    padding:10px
+}
